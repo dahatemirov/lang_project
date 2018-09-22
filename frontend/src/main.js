@@ -7,6 +7,7 @@ import Hello from './components/Hello.vue'
 Vue.use(Router)
 
 const router = new Router({
+    mode: 'history',
     routes: [
         {
             path: '/',
