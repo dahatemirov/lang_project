@@ -4,3 +4,4 @@
 
 # IDE files
 /.idea
+/vue-spa/node_modules
